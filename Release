@@ -1,0 +1,12 @@
+Origin: Lazy's Repo
+Label: Lazy's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Home to Lazy's tweaks
+
+SHA256:
+ 3716777b757c92cddc96a8eec281ff1d880024ca561ac94d93c7ad01e69d8b78 574 Packages.bz2
+ f70c8b852bfbf2e93946b28db04a6a7c5fbfdb27213e856d720ddc9ed353f6c8 560 Packages.xz
